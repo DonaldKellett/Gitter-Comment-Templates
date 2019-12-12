@@ -2,7 +2,9 @@
 
 A repository of templates for Gitter comments, useful for certain common scenarios
 
-## Redirecting Kata-related questions to kata-solving-help channel when new Codewarriors ask in the main channel
+## [Codewars/codewars.com](https://gitter.im/Codewars/codewars.com)
+
+### Redirecting Kata-related questions to [kata-solving-help](https://gitter.im/Codewars/codewars.com/kata-solving-help) channel when new Codewarriors ask in the main channel
 
 ```markdown
 @<CODEWARRIOR_NAME_HERE> For Kata-related questions, please go to [kata-solving-help](https://gitter.im/Codewars/codewars.com/kata-solving-help) channel and don't forget to include all of the following information:
